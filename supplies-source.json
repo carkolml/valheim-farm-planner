@@ -1,0 +1,1278 @@
+{
+  "Túnica de cuero": {
+    "name": "Túnica de cuero",
+    "id": "armorleatherchest",
+    "m": {
+      "Piel de ciervo": 6
+    },
+    "links": {
+      "Piel de ciervo": "deerhide"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Workbench level 2 td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Deer Hide x6"
+  },
+  "Pantalones de cuero": {
+    "name": "Pantalones de cuero",
+    "id": "armorleatherlegs",
+    "m": {
+      "Piel de ciervo": 6
+    },
+    "links": {
+      "Piel de ciervo": "deerhide"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Workbench level 2 td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Deer Hide x6"
+  },
+  "Casco de cuero": {
+    "name": "Casco de cuero",
+    "id": "helmetleather",
+    "m": {
+      "Piel de ciervo": 6
+    },
+    "links": {
+      "Piel de ciervo": "deerhide"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Workbench level 2 td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Deer Hide x6"
+  },
+  "Escudo de madera": {
+    "name": "Escudo de madera",
+    "id": "shieldwood",
+    "m": {
+      "Madera": 10,
+      "Resina": 4,
+      "Retales de cuero": 4
+    },
+    "links": {
+      "Madera": "wood",
+      "Resina": "resin",
+      "Retales de cuero": "leatherscraps_0"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Workbench td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Wood x10 Resin x4 Leather Scraps x4"
+  },
+  "Lanza de sílex": {
+    "name": "Lanza de sílex",
+    "id": "spearflint",
+    "m": {
+      "Madera": 5,
+      "Sílex": 10,
+      "Retales de cuero": 2
+    },
+    "links": {
+      "Madera": "wood",
+      "Sílex": "flint",
+      "Retales de cuero": "leatherscraps_0"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Workbench td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Wood x5 Flint x10 Leather Scraps x2"
+  },
+  "Casco de bronce": {
+    "name": "Casco de bronce",
+    "id": "helmetbronze",
+    "m": {
+      "Bronce": 5,
+      "Piel de ciervo": 2
+    },
+    "links": {
+      "Bronce": "bronze",
+      "Piel de ciervo": "deerhide"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Forge td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Bronze x5 Deer Hide x2"
+  },
+  "Grebas de bronce": {
+    "name": "Grebas de bronce",
+    "id": "armorbronzelegs",
+    "m": {
+      "Bronce": 5,
+      "Piel de ciervo": 2
+    },
+    "links": {
+      "Bronce": "bronze",
+      "Piel de ciervo": "deerhide"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Forge td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Bronze x5 Deer Hide x2"
+  },
+  "Coraza de bronce": {
+    "name": "Coraza de bronce",
+    "id": "armorbronzechest",
+    "m": {
+      "Bronce": 5,
+      "Piel de ciervo": 2
+    },
+    "links": {
+      "Bronce": "bronze",
+      "Piel de ciervo": "deerhide"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Forge td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Bronze x5 Deer Hide x2"
+  },
+  "Arco de madera noble": {
+    "name": "Arco de madera noble",
+    "id": "bowfinewood",
+    "m": {
+      "Madera noble": 10,
+      "Madera de núcleo": 10,
+      "Piel de ciervo": 2
+    },
+    "links": {
+      "Madera noble": "finewood",
+      "Madera de núcleo": "roundlog",
+      "Piel de ciervo": "deerhide"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Workbench td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Finewood x10 Corewood x10 Deer Hide x2"
+  },
+  "Flechas de fuego · lote de 20": {
+    "name": "Flechas de fuego · lote de 20",
+    "id": "arrowfire",
+    "m": {
+      "Madera": 8,
+      "Resina": 8,
+      "Plumas": 2
+    },
+    "links": {
+      "Madera": "wood",
+      "Resina": "resin",
+      "Plumas": "feathers"
+    },
+    "out": 20,
+    "stats": {
+      "Duration": 5
+    },
+    "note": "> Crafting Crafting Station Workbench level 2 Skill Crafting td]:pb-[6px]!\"> Output x20 Ingredients td]:pt-[6px]!\"> Wood x8 Resin x8 Feathers x2"
+  },
+  "Cota de hierro": {
+    "name": "Cota de hierro",
+    "id": "armorironchest",
+    "m": {
+      "Hierro": 20,
+      "Piel de ciervo": 2
+    },
+    "links": {
+      "Hierro": "iron",
+      "Piel de ciervo": "deerhide"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Forge level 2 td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Iron x20 Deer Hide x2"
+  },
+  "Maza de hierro": {
+    "name": "Maza de hierro",
+    "id": "maceiron",
+    "m": {
+      "Madera": 4,
+      "Hierro": 20,
+      "Retales de cuero": 3
+    },
+    "links": {
+      "Madera": "wood",
+      "Hierro": "iron",
+      "Retales de cuero": "leatherscraps_0"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Forge level 2 td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Wood x4 Iron x20 Leather Scraps x3"
+  },
+  "Peto de lobo": {
+    "name": "Peto de lobo",
+    "id": "armorwolfchest",
+    "m": {
+      "Plata": 20,
+      "Piel de lobo": 5,
+      "Cadena": 1
+    },
+    "links": {
+      "Plata": "silver",
+      "Piel de lobo": "wolfpelt",
+      "Cadena": "chain"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Forge level 2 td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Silver x20 Wolf Pelt x5 Chain x1"
+  },
+  "Casco de hierro": {
+    "name": "Casco de hierro",
+    "id": "helmetiron",
+    "m": {
+      "Hierro": 20,
+      "Piel de ciervo": 2
+    },
+    "links": {
+      "Hierro": "iron",
+      "Piel de ciervo": "deerhide"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Forge td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Iron x20 Deer Hide x2"
+  },
+  "Escudo de bandas": {
+    "name": "Escudo de bandas",
+    "id": "shieldbanded",
+    "m": {
+      "Madera noble": 10,
+      "Hierro": 8
+    },
+    "links": {
+      "Madera noble": "finewood",
+      "Hierro": "iron"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Forge level 2 td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Finewood x10 Iron x8"
+  },
+  "Casco de draco": {
+    "name": "Casco de draco",
+    "id": "helmetdrake",
+    "m": {
+      "Plata": 20,
+      "Piel de lobo": 2,
+      "Trofeo de draco": 2
+    },
+    "links": {
+      "Plata": "silver",
+      "Piel de lobo": "wolfpelt",
+      "Trofeo de draco": "trophyhatchling"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Forge td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Silver x20 Wolf Pelt x2 Drake Trophy x2"
+  },
+  "Grebas de hierro": {
+    "name": "Grebas de hierro",
+    "id": "armorironlegs",
+    "m": {
+      "Hierro": 20,
+      "Piel de ciervo": 2
+    },
+    "links": {
+      "Hierro": "iron",
+      "Piel de ciervo": "deerhide"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Forge level 2 td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Iron x20 Deer Hide x2"
+  },
+  "Colmillo de draugr": {
+    "name": "Colmillo de draugr",
+    "id": "bowdraugrfang",
+    "m": {
+      "Corteza antigua": 10,
+      "Plata": 20,
+      "Piel de ciervo": 2,
+      "Guck": 10
+    },
+    "links": {
+      "Corteza antigua": "elderbark",
+      "Plata": "silver",
+      "Piel de ciervo": "deerhide",
+      "Guck": "guck"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Forge level 2 td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Ancient Bark x10 Silver x20 Deer Hide x2 Guck x10"
+  },
+  "Grebas de lobo": {
+    "name": "Grebas de lobo",
+    "id": "armorwolflegs",
+    "m": {
+      "Plata": 20,
+      "Piel de lobo": 5,
+      "Colmillo de lobo": 4
+    },
+    "links": {
+      "Plata": "silver",
+      "Piel de lobo": "wolfpelt",
+      "Colmillo de lobo": "wolffang"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Forge level 2 td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Silver x20 Wolf Pelt x5 Wolf Fang x4"
+  },
+  "Flechas de obsidiana · lote de 20": {
+    "name": "Flechas de obsidiana · lote de 20",
+    "id": "arrowobsidian",
+    "m": {
+      "Madera": 8,
+      "Obsidiana": 4,
+      "Plumas": 2
+    },
+    "links": {
+      "Madera": "wood",
+      "Obsidiana": "obsidian",
+      "Plumas": "feathers"
+    },
+    "out": 20,
+    "stats": {},
+    "note": "> Crafting Crafting Station Workbench level 3 Skill Crafting td]:pb-[6px]!\"> Output x20 Ingredients td]:pt-[6px]!\"> Wood x8 Obsidian x4 Feathers x2"
+  },
+  "Grebas acolchadas": {
+    "name": "Grebas acolchadas",
+    "id": "armorpaddedgreaves",
+    "m": {
+      "Hierro": 10,
+      "Hilo de lino": 20
+    },
+    "links": {
+      "Hierro": "iron",
+      "Hilo de lino": "linenthread"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Forge level 2 td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Iron x10 Linen Thread x20"
+  },
+  "Coraza acolchada": {
+    "name": "Coraza acolchada",
+    "id": "armorpaddedcuirass",
+    "m": {
+      "Hierro": 10,
+      "Hilo de lino": 20
+    },
+    "links": {
+      "Hierro": "iron",
+      "Hilo de lino": "linenthread"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Forge level 2 td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Iron x10 Linen Thread x20"
+  },
+  "Escudo de metal negro": {
+    "name": "Escudo de metal negro",
+    "id": "shieldblackmetal",
+    "m": {
+      "Madera noble": 10,
+      "Metal negro": 8,
+      "Cadena": 5
+    },
+    "links": {
+      "Madera noble": "finewood",
+      "Metal negro": "blackmetal",
+      "Cadena": "chain"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Forge level 3 td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Finewood x10 Black Metal x8 Chain x5"
+  },
+  "Casco acolchado": {
+    "name": "Casco acolchado",
+    "id": "helmetpadded",
+    "m": {
+      "Hierro": 10,
+      "Hilo de lino": 15
+    },
+    "links": {
+      "Hierro": "iron",
+      "Hilo de lino": "linenthread"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Forge td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Iron x10 Linen Thread x15"
+  },
+  "Frostner": {
+    "name": "Frostner",
+    "id": "macesilver",
+    "m": {
+      "Corteza antigua": 10,
+      "Plata": 30,
+      "Carne de Ymir": 5,
+      "Glándula congelada": 5
+    },
+    "links": {
+      "Corteza antigua": "elderbark",
+      "Plata": "silver",
+      "Carne de Ymir": "ymirremains",
+      "Glándula congelada": "freezegland"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Forge level 3 td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Ancient Bark x10 Silver x30 Ymir Flesh x5 Freeze Gland x5"
+  },
+  "Coraza de caparazón": {
+    "name": "Coraza de caparazón",
+    "id": "armorcarapacechest",
+    "m": {
+      "Caparazón": 20,
+      "Pellejo de escama": 3,
+      "Hierro": 5,
+      "Eitr refinado": 4
+    },
+    "links": {
+      "Caparazón": "carapace",
+      "Pellejo de escama": "scalehide",
+      "Hierro": "iron",
+      "Eitr refinado": "eitr"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Black Forge td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Carapace x20 Scale Hide x3 Iron x5 Refined Eitr x4"
+  },
+  "Mistwalker": {
+    "name": "Mistwalker",
+    "id": "swordmistwalker",
+    "m": {
+      "Madera noble": 3,
+      "Hierro": 15,
+      "Eitr refinado": 10,
+      "Mechón": 3
+    },
+    "links": {
+      "Madera noble": "finewood",
+      "Hierro": "iron",
+      "Eitr refinado": "eitr",
+      "Mechón": "wisp"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Black Forge td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Finewood x3 Iron x15 Refined Eitr x10 Wisp x3"
+  },
+  "Casco de caparazón": {
+    "name": "Casco de caparazón",
+    "id": "helmetcarapace",
+    "m": {
+      "Caparazón": 16,
+      "Pellejo de escama": 3,
+      "Mandíbula": 2,
+      "Eitr refinado": 4
+    },
+    "links": {
+      "Caparazón": "carapace",
+      "Pellejo de escama": "scalehide",
+      "Mandíbula": "mandible",
+      "Eitr refinado": "eitr"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Black Forge td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Carapace x16 Scale Hide x3 Mandible x2 Refined Eitr x4"
+  },
+  "Grebas de caparazón": {
+    "name": "Grebas de caparazón",
+    "id": "armorcarapacelegs",
+    "m": {
+      "Caparazón": 20,
+      "Pellejo de escama": 3,
+      "Hierro": 5,
+      "Eitr refinado": 4
+    },
+    "links": {
+      "Caparazón": "carapace",
+      "Pellejo de escama": "scalehide",
+      "Hierro": "iron",
+      "Eitr refinado": "eitr"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Black Forge td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Carapace x20 Scale Hide x3 Iron x5 Refined Eitr x4"
+  },
+  "Grebas de flametal": {
+    "name": "Grebas de flametal",
+    "id": "armorflametallegs",
+    "m": {
+      "Flametal": 20,
+      "Pellejo de asksvin": 3,
+      "Hueso carbonizado": 5
+    },
+    "links": {
+      "Flametal": "flametalnew",
+      "Pellejo de asksvin": "askhide",
+      "Hueso carbonizado": "charredbone_0"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Black Forge level 3 td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Flametal x20 Asksvin Hide x3 Charred Bone x5"
+  },
+  "Casco de flametal": {
+    "name": "Casco de flametal",
+    "id": "helmetflametal",
+    "m": {
+      "Flametal": 16,
+      "Pellejo de asksvin": 3,
+      "Hueso carbonizado": 2,
+      "Eitr refinado": 4
+    },
+    "links": {
+      "Flametal": "flametalnew",
+      "Pellejo de asksvin": "askhide",
+      "Hueso carbonizado": "charredbone_0",
+      "Eitr refinado": "eitr"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Black Forge level 3 td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Flametal x16 Asksvin Hide x3 Charred Bone x2 Refined Eitr x4"
+  },
+  "Capa de lobo": {
+    "name": "Capa de lobo",
+    "id": "capewolf",
+    "m": {
+      "Piel de lobo": 6,
+      "Plata": 4,
+      "Trofeo de lobo": 1
+    },
+    "links": {
+      "Piel de lobo": "wolfpelt",
+      "Plata": "silver",
+      "Trofeo de lobo": "trophywolf"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Workbench level 2 td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Wolf Pelt x6 Silver x4 Wolf Trophy x1"
+  },
+  "Luz de Wisp": {
+    "name": "Luz de Wisp",
+    "id": "demister",
+    "m": {
+      "Plata": 1,
+      "Mechón": 1
+    },
+    "links": {
+      "Plata": "silver",
+      "Mechón": "wisp"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Workbench td]:pb-[6px]!\"> Skill Crafting Ingredients td]:pt-[6px]!\"> Silver x1 Wisp x1"
+  },
+  "Coraza de flametal": {
+    "name": "Coraza de flametal",
+    "id": "armorflametalchest",
+    "m": {
+      "Flametal": 20,
+      "Pellejo de asksvin": 3,
+      "Hueso carbonizado": 5,
+      "Corazón de Morgen": 1
+    },
+    "links": {
+      "Flametal": "flametalnew",
+      "Pellejo de asksvin": "askhide",
+      "Hueso carbonizado": "charredbone_0",
+      "Corazón de Morgen": "morgenheart"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Black Forge level 3 td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Flametal x20 Asksvin Hide x3 Charred Bone x5 Morgen Heart x1"
+  },
+  "Azada": {
+    "name": "Azada",
+    "id": "hoe",
+    "m": {
+      "Madera": 5,
+      "Piedra": 2
+    },
+    "links": {
+      "Madera": "wood",
+      "Piedra": "stone"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Workbench td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Wood x5 Stone x2"
+  },
+  "Salsa de carne picada": {
+    "name": "Salsa de carne picada",
+    "id": "mincemeatsauce",
+    "m": {
+      "Carne de jabalí": 1,
+      "Cola de nixe": 1,
+      "Zanahoria": 1
+    },
+    "links": {
+      "Carne de jabalí": "rawmeat",
+      "Cola de nixe": "necktail",
+      "Zanahoria": "carrot_0"
+    },
+    "out": 1,
+    "stats": {
+      "Health": 40,
+      "Stamina": 13,
+      "Duration": 1500
+    },
+    "note": "> Crafting Crafting Station Cauldron td]:pb-[6px]!\"> Skill Cooking Ingredients td]:pt-[6px]!\"> Boar Meat x1 Neck Tail x1 Carrot x1",
+    "preparation": "Cocina en la estación y nivel necesarios para esta receta."
+  },
+  "Nidhögg": {
+    "name": "Nidhögg",
+    "id": "swordniedhogg",
+    "m": {
+      "Hueso carbonizado": 3,
+      "Flametal": 12,
+      "Pellejo de asksvin": 2
+    },
+    "links": {
+      "Hueso carbonizado": "charredbone_0",
+      "Flametal": "flametalnew",
+      "Pellejo de asksvin": "askhide"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Black Forge level 3 td]:pb-[6px]!\"> Skill Crafting Ingredients - Quality 1 + td]:pt-[6px]!\"> Charred Bone x3 Flametal x12 Asksvin Hide x2"
+  },
+  "Carne de jabalí cocinada": {
+    "name": "Carne de jabalí cocinada",
+    "id": "cookedmeat",
+    "m": {
+      "Carne de jabalí": 1
+    },
+    "links": {
+      "Carne de jabalí": "rawmeat"
+    },
+    "out": 1,
+    "stats": {
+      "Health": 30,
+      "Stamina": 10,
+      "Duration": 1200
+    },
+    "note": "> Crafting Cooking Station Station Cooking Station Skill Cooking td]:pb-[6px]!\"> Processing time 25 sec Ingredients td]:pt-[6px]!\"> Boar Meat x1",
+    "preparation": "Cocina en la estación y nivel necesarios para esta receta."
+  },
+  "Sopa de zanahoria": {
+    "name": "Sopa de zanahoria",
+    "id": "carrotsoup",
+    "m": {
+      "Seta": 1,
+      "Zanahoria": 3
+    },
+    "links": {
+      "Seta": "mushroom",
+      "Zanahoria": "carrot_0"
+    },
+    "out": 1,
+    "stats": {
+      "Health": 15,
+      "Stamina": 45,
+      "Duration": 1500
+    },
+    "note": "> Crafting Crafting Station Cauldron td]:pb-[6px]!\"> Skill Cooking Ingredients td]:pt-[6px]!\"> Mushroom x1 Carrot x3",
+    "preparation": "Cocina en la estación y nivel necesarios para esta receta."
+  },
+  "Carne de ciervo cocinada": {
+    "name": "Carne de ciervo cocinada",
+    "id": "cookeddeermeat",
+    "m": {
+      "Carne de ciervo": 1
+    },
+    "links": {
+      "Carne de ciervo": "deermeat"
+    },
+    "out": 1,
+    "stats": {
+      "Health": 35,
+      "Stamina": 12,
+      "Duration": 1200
+    },
+    "note": "> Crafting Cooking Station Station Cooking Station Skill Cooking td]:pb-[6px]!\"> Processing time 25 sec Ingredients td]:pt-[6px]!\"> Deer Meat x1",
+    "preparation": "Cocina en la estación y nivel necesarios para esta receta."
+  },
+  "Miel": {
+    "name": "Miel",
+    "id": "honey",
+    "m": {
+      "Miel": 1
+    },
+    "links": {},
+    "out": 1,
+    "stats": {
+      "Health": 8,
+      "Stamina": 35,
+      "Eitr": 10,
+      "Duration": 900
+    },
+    "note": "",
+    "preparation": "Cocina en la estación y nivel necesarios para esta receta."
+  },
+  "Estofado de ciervo": {
+    "name": "Estofado de ciervo",
+    "id": "deerstew",
+    "m": {
+      "Carne de ciervo": 1,
+      "Arándanos": 1,
+      "Zanahoria": 1
+    },
+    "links": {
+      "Carne de ciervo cocinada": "cookeddeermeat",
+      "Arándanos": "blueberries",
+      "Zanahoria": "carrot_0"
+    },
+    "out": 1,
+    "stats": {
+      "Health": 45,
+      "Stamina": 15,
+      "Duration": 1500
+    },
+    "note": "> Crafting Crafting Station Cauldron td]:pb-[6px]!\"> Skill Cooking Ingredients td]:pt-[6px]!\"> Cooked Deer Meat x1 Blueberries x1 Carrot x1",
+    "preparation": "Cocina en la estación y nivel necesarios para esta receta."
+  },
+  "Estofado negro": {
+    "name": "Estofado negro",
+    "id": "blackSoup",
+    "m": {
+      "Bolsa de sangre": 1,
+      "Miel": 1,
+      "Nabo": 1
+    },
+    "links": {
+      "Bolsa de sangre": "bloodbag",
+      "Miel": "honey",
+      "Nabo": "turnip_0"
+    },
+    "out": 1,
+    "stats": {
+      "Health": 50,
+      "Stamina": 17,
+      "Duration": 1200
+    },
+    "note": "> Crafting Crafting Station Cauldron level 2 td]:pb-[6px]!\"> Skill Cooking Ingredients td]:pt-[6px]!\"> Bloodbag x1 Honey x1 Turnip x1",
+    "preparation": "Cocina en la estación y nivel necesarios para esta receta."
+  },
+  "Salchichas": {
+    "name": "Salchichas",
+    "id": "sausages",
+    "m": {
+      "Entrañas": 4,
+      "Carne de jabalí": 1,
+      "Cardo": 1
+    },
+    "links": {
+      "Entrañas": "entrails",
+      "Carne de jabalí": "rawmeat",
+      "Cardo": "thistle"
+    },
+    "out": 4,
+    "stats": {
+      "Health": 55,
+      "Stamina": 18,
+      "Duration": 1500
+    },
+    "note": "> Crafting Crafting Station Cauldron level 2 Skill Cooking td]:pb-[6px]!\"> Output x4 Ingredients td]:pt-[6px]!\"> Entrails x4 Boar Meat x1 Thistle x1",
+    "preparation": "Cocina en la estación y nivel necesarios para esta receta."
+  },
+  "Sopa de nabo": {
+    "name": "Sopa de nabo",
+    "id": "turnipstew",
+    "m": {
+      "Carne de jabalí": 1,
+      "Nabo": 3
+    },
+    "links": {
+      "Carne de jabalí": "rawmeat",
+      "Nabo": "turnip_0"
+    },
+    "out": 1,
+    "stats": {
+      "Health": 18,
+      "Stamina": 55,
+      "Duration": 1500
+    },
+    "note": "> Crafting Crafting Station Cauldron level 2 td]:pb-[6px]!\"> Skill Cooking Ingredients td]:pt-[6px]!\"> Boar Meat x1 Turnip x3",
+    "preparation": "Cocina en la estación y nivel necesarios para esta receta."
+  },
+  "Sopa de cebolla": {
+    "name": "Sopa de cebolla",
+    "id": "onionsoup",
+    "m": {
+      "Cebolla": 3
+    },
+    "links": {
+      "Cebolla": "onion"
+    },
+    "out": 1,
+    "stats": {
+      "Health": 20,
+      "Stamina": 60,
+      "Duration": 1200
+    },
+    "note": "> Crafting Crafting Station Cauldron level 2 td]:pb-[6px]!\"> Skill Cooking Ingredients td]:pt-[6px]!\"> Onion x3",
+    "preparation": "Cocina en la estación y nivel necesarios para esta receta."
+  },
+  "Pastel de lox": {
+    "name": "Pastel de lox",
+    "id": "loxpie",
+    "m": {
+      "Mora de los pantanos": 2,
+      "Carne de lox": 2,
+      "Harina de cebada": 4
+    },
+    "links": {
+      "Unbaked Lox Pie": "loxpieuncooked"
+    },
+    "out": 1,
+    "stats": {
+      "Health": 75,
+      "Stamina": 24,
+      "Duration": 1800
+    },
+    "note": "> Crafting Cooking Station Station Stone Oven Skill Cooking td]:pb-[6px]!\"> Processing time 50 sec Ingredients td]:pt-[6px]!\"> Unbaked Lox Pie x1",
+    "preparation": "Requiere horno de piedra y preparación previa de la masa o del plato."
+  },
+  "Carne de lobo cocinada": {
+    "name": "Carne de lobo cocinada",
+    "id": "cookedwolfmeat",
+    "m": {
+      "Carne de lobo": 1
+    },
+    "links": {
+      "Carne de lobo": "wolfmeat"
+    },
+    "out": 1,
+    "stats": {
+      "Health": 45,
+      "Stamina": 15,
+      "Duration": 1200
+    },
+    "note": "> Crafting Cooking Station Station Cooking Station Skill Cooking td]:pb-[6px]!\"> Processing time 25 sec Ingredients td]:pt-[6px]!\"> Wolf Meat x1",
+    "preparation": "Cocina en la estación y nivel necesarios para esta receta."
+  },
+  "Pudin de sangre": {
+    "name": "Pudin de sangre",
+    "id": "bloodpudding",
+    "m": {
+      "Cardo": 2,
+      "Bolsa de sangre": 2,
+      "Harina de cebada": 4
+    },
+    "links": {
+      "Cardo": "thistle",
+      "Bolsa de sangre": "bloodbag",
+      "Harina de cebada": "barleyflour"
+    },
+    "out": 1,
+    "stats": {
+      "Health": 25,
+      "Stamina": 75,
+      "Duration": 1800
+    },
+    "note": "> Crafting Crafting Station Cauldron level 4 td]:pb-[6px]!\"> Skill Cooking Ingredients td]:pt-[6px]!\"> Thistle x2 Bloodbag x2 Barley Flour x4",
+    "preparation": "Cocina en la estación y nivel necesarios para esta receta."
+  },
+  "Pollo glaseado con miel": {
+    "name": "Pollo glaseado con miel",
+    "id": "honeyglazedchicken",
+    "m": {
+      "Carne de pollo": 1,
+      "Miel": 3,
+      "Jotun puffs": 2
+    },
+    "links": {
+      "Uncooked Honey Glazed Chicken": "honeyglazedchickenuncooked"
+    },
+    "out": 1,
+    "stats": {
+      "Health": 80,
+      "Stamina": 26,
+      "Duration": 1800
+    },
+    "note": "> Crafting Cooking Station Station Stone Oven Skill Cooking td]:pb-[6px]!\"> Processing time 50 sec Ingredients td]:pt-[6px]!\"> Uncooked Honey Glazed Chicken x1",
+    "preparation": "Requiere horno de piedra y preparación previa de la masa o del plato."
+  },
+  "Puré de carne": {
+    "name": "Puré de carne",
+    "id": "mashedmeat",
+    "m": {
+      "Cola de asksvin": 1,
+      "Carne de volture": 1,
+      "Brote de helecho": 1
+    },
+    "links": {
+      "Cola de asksvin": "asksvinmeat",
+      "Carne de volture": "volturemeat",
+      "Brote de helecho": "fiddleheadfern"
+    },
+    "out": 1,
+    "stats": {
+      "Health": 100,
+      "Stamina": 34,
+      "Duration": 1500
+    },
+    "note": "> Crafting Crafting Station Cauldron level 6 td]:pb-[6px]!\"> Skill Cooking Ingredients td]:pt-[6px]!\"> Asksvin Tail x1 Volture Meat x1 Fiddlehead x1",
+    "preparation": "Cocina en la estación y nivel necesarios para esta receta."
+  },
+  "Ensalada": {
+    "name": "Ensalada",
+    "id": "salad",
+    "m": {
+      "Jotun puffs": 3,
+      "Cebolla": 3,
+      "Mora de los pantanos": 3
+    },
+    "links": {
+      "Jotun puffs": "mushroomjotunpuffs",
+      "Cebolla": "onion",
+      "Mora de los pantanos": "cloudberry"
+    },
+    "out": 3,
+    "stats": {
+      "Health": 26,
+      "Stamina": 80,
+      "Duration": 1500
+    },
+    "note": "> Crafting Crafting Station Cauldron level 5 Skill Cooking td]:pb-[6px]!\"> Output x3 Ingredients td]:pt-[6px]!\"> Jotun Puffs x3 Onion x3 Cloudberries x3",
+    "preparation": "Cocina en la estación y nivel necesarios para esta receta."
+  },
+  "Hidromiel antiveneno": {
+    "name": "Hidromiel antiveneno",
+    "id": "meadpoisonresist",
+    "m": {
+      "Miel": 10,
+      "Cardo": 5,
+      "Cola de nixe": 1,
+      "Carbón": 10
+    },
+    "links": {
+      "Mead Base: Poison Resistance": "meadbasepoisonresist"
+    },
+    "out": 6,
+    "stats": {
+      "Duration": 600
+    },
+    "note": "> Crafting Fermenter Station Fermenter Processing time 40 min td]:pb-[6px]!\"> Output x6 Ingredients td]:pt-[6px]!\"> Mead Base: Poison Resistance x1",
+    "preparation": "Cocina en la estación y nivel necesarios para esta receta."
+  },
+  "Plato de escalofríos": {
+    "name": "Plato de escalofríos",
+    "id": "scorchingmedley",
+    "m": {
+      "Jotun puffs": 3,
+      "Cebolla": 3,
+      "Brote de helecho": 3
+    },
+    "links": {
+      "Jotun puffs": "mushroomjotunpuffs",
+      "Cebolla": "onion",
+      "Brote de helecho": "fiddleheadfern"
+    },
+    "out": 3,
+    "stats": {
+      "Health": 32,
+      "Stamina": 95,
+      "Duration": 1500
+    },
+    "note": "> Crafting Crafting Station Cauldron level 6 Skill Cooking td]:pb-[6px]!\"> Output x3 Ingredients td]:pt-[6px]!\"> Jotun Puffs x3 Onion x3 Fiddlehead x3",
+    "preparation": "Cocina en la estación y nivel necesarios para esta receta."
+  },
+  "Vino de cebada ignífugo": {
+    "name": "Vino de cebada ignífugo",
+    "id": "barleywine",
+    "m": {
+      "Cebada": 10,
+      "Mora de los pantanos": 10
+    },
+    "links": {
+      "Barley Wine Base: Fire Resistance": "barleywinebase"
+    },
+    "out": 6,
+    "stats": {
+      "Duration": 600
+    },
+    "note": "> Crafting Fermenter Station Fermenter Processing time 40 min td]:pb-[6px]!\"> Output x6 Ingredients td]:pt-[6px]!\"> Barley Wine Base: Fire Resistance x1",
+    "preparation": "Cocina en la estación y nivel necesarios para esta receta."
+  },
+  "Hidromiel contra el frío": {
+    "name": "Hidromiel contra el frío",
+    "id": "meadfrostresist",
+    "m": {
+      "Miel": 10,
+      "Cardo": 5,
+      "Bolsa de sangre": 2,
+      "Ojo de enano gris": 1
+    },
+    "links": {
+      "Mead Base: Frost Resistance": "meadbasefrostresist"
+    },
+    "out": 6,
+    "stats": {
+      "Duration": 600
+    },
+    "note": "> Crafting Fermenter Station Fermenter Processing time 40 min td]:pb-[6px]!\"> Output x6 Ingredients td]:pt-[6px]!\"> Mead Base: Frost Resistance x1",
+    "preparation": "Cocina en la estación y nivel necesarios para esta receta."
+  },
+  "Hidromiel curativa menor": {
+    "name": "Hidromiel curativa menor",
+    "id": "meadhealthminor",
+    "m": {
+      "Miel": 10,
+      "Arándanos": 5,
+      "Frambuesa": 10,
+      "Diente de león": 1
+    },
+    "links": {
+      "Mead Base: Minor Healing": "meadbasehealthminor"
+    },
+    "out": 6,
+    "stats": {
+      "Health": 50,
+      "Duration": 120
+    },
+    "note": "> Crafting Fermenter Station Fermenter Processing time 40 min td]:pb-[6px]!\"> Output x6 Ingredients td]:pt-[6px]!\"> Mead Base: Minor Healing x1",
+    "preparation": "Cocina en la estación y nivel necesarios para esta receta."
+  },
+  "Hidromiel curativa media": {
+    "name": "Hidromiel curativa media",
+    "id": "meadhealthmedium",
+    "m": {
+      "Miel": 10,
+      "Bolsa de sangre": 4,
+      "Frambuesa": 10,
+      "Diente de león": 1
+    },
+    "links": {
+      "Mead Base: Medium Healing": "meadbasehealthmedium"
+    },
+    "out": 6,
+    "stats": {
+      "Health": 75,
+      "Duration": 120
+    },
+    "note": "> Crafting Fermenter Station Fermenter Processing time 40 min td]:pb-[6px]!\"> Output x6 Ingredients td]:pt-[6px]!\"> Mead Base: Medium Healing x1",
+    "preparation": "Cocina en la estación y nivel necesarios para esta receta."
+  },
+  "Pastel de carne": {
+    "name": "Pastel de carne",
+    "id": "piquantpie",
+    "m": {
+      "Racimo de bayas de vid": 2,
+      "Cola de asksvin": 2,
+      "Harina de cebada": 4
+    },
+    "links": {
+      "Uncooked Piquant Pie": "piquantpieuncooked"
+    },
+    "out": 1,
+    "stats": {
+      "Health": 105,
+      "Stamina": 35,
+      "Duration": 1800
+    },
+    "note": "> Crafting Cooking Station Station Stone Oven Skill Cooking td]:pb-[6px]!\"> Processing time 50 sec Ingredients td]:pt-[6px]!\"> Uncooked Piquant Pie x1",
+    "preparation": "Requiere horno de piedra y preparación previa de la masa o del plato."
+  },
+  "Pan": {
+    "name": "Pan",
+    "id": "bread_0",
+    "m": {
+      "Harina de cebada": 10
+    },
+    "links": {
+      "Bread Dough": "breaddough"
+    },
+    "out": 1,
+    "stats": {
+      "Health": 23,
+      "Stamina": 70,
+      "Duration": 1500
+    },
+    "note": "> Crafting Cooking Station Station Stone Oven Skill Cooking td]:pb-[6px]!\"> Processing time 50 sec Ingredients td]:pt-[6px]!\"> Bread Dough x1",
+    "preparation": "Requiere horno de piedra y preparación previa de la masa o del plato."
+  },
+  "Estofado de carne": {
+    "name": "Estofado de carne",
+    "id": "meatplatter_0",
+    "m": {
+      "Carne de buscador": 1,
+      "Carne de lox": 1,
+      "Carne de liebre": 1
+    },
+    "links": {
+      "Uncooked Meat Platter": "meatplatteruncooked"
+    },
+    "out": 1,
+    "stats": {
+      "Health": 80,
+      "Stamina": 26,
+      "Duration": 1800
+    },
+    "note": "> Crafting Cooking Station Station Stone Oven Skill Cooking td]:pb-[6px]!\"> Processing time 50 sec Ingredients td]:pt-[6px]!\"> Uncooked Meat Platter x1",
+    "preparation": "Requiere horno de piedra y preparación previa de la masa o del plato."
+  },
+  "Mead Base: Medium Healing": {
+    "name": "Mead Base: Medium Healing",
+    "id": "meadbasehealthmedium",
+    "m": {
+      "Miel": 10,
+      "Bolsa de sangre": 4,
+      "Frambuesa": 10,
+      "Diente de león": 1
+    },
+    "links": {
+      "Miel": "honey",
+      "Bolsa de sangre": "bloodbag",
+      "Frambuesa": "raspberry",
+      "Diente de león": "dandelion"
+    },
+    "out": 1,
+    "stats": {
+      "Health": 75,
+      "Duration": 120
+    },
+    "note": "> Crafting Crafting Station Mead Ketill td]:pb-[6px]!\"> Skill Cooking Ingredients td]:pt-[6px]!\"> Honey x10 Bloodbag x4 Raspberries x10 Dandelion x1"
+  },
+  "Barley Wine Base: Fire Resistance": {
+    "name": "Barley Wine Base: Fire Resistance",
+    "id": "barleywinebase",
+    "m": {
+      "Cebada": 10,
+      "Mora de los pantanos": 10
+    },
+    "links": {
+      "Cebada": "barley",
+      "Mora de los pantanos": "cloudberry"
+    },
+    "out": 1,
+    "stats": {
+      "Duration": 600
+    },
+    "note": "> Crafting Crafting Station Mead Ketill td]:pb-[6px]!\"> Skill Cooking Ingredients td]:pt-[6px]!\"> Barley x10 Cloudberries x10"
+  },
+  "Mead Base: Minor Healing": {
+    "name": "Mead Base: Minor Healing",
+    "id": "meadbasehealthminor",
+    "m": {
+      "Miel": 10,
+      "Arándanos": 5,
+      "Frambuesa": 10,
+      "Diente de león": 1
+    },
+    "links": {
+      "Miel": "honey",
+      "Arándanos": "blueberries",
+      "Frambuesa": "raspberry",
+      "Diente de león": "dandelion"
+    },
+    "out": 1,
+    "stats": {
+      "Health": 50,
+      "Duration": 120
+    },
+    "note": "> Crafting Crafting Station Mead Ketill td]:pb-[6px]!\"> Skill Cooking Ingredients td]:pt-[6px]!\"> Honey x10 Blueberries x5 Raspberries x10 Dandelion x1"
+  },
+  "Mead Base: Poison Resistance": {
+    "name": "Mead Base: Poison Resistance",
+    "id": "meadbasepoisonresist",
+    "m": {
+      "Miel": 10,
+      "Cardo": 5,
+      "Cola de nixe": 1,
+      "Carbón": 10
+    },
+    "links": {
+      "Miel": "honey",
+      "Cardo": "thistle",
+      "Cola de nixe": "necktail",
+      "Carbón": "coal"
+    },
+    "out": 1,
+    "stats": {
+      "Duration": 600
+    },
+    "note": "> Crafting Crafting Station Mead Ketill td]:pb-[6px]!\"> Skill Cooking Ingredients td]:pt-[6px]!\"> Honey x10 Thistle x5 Neck Tail x1 Coal x10"
+  },
+  "Mead Base: Frost Resistance": {
+    "name": "Mead Base: Frost Resistance",
+    "id": "meadbasefrostresist",
+    "m": {
+      "Miel": 10,
+      "Cardo": 5,
+      "Bolsa de sangre": 2,
+      "Ojo de enano gris": 1
+    },
+    "links": {
+      "Miel": "honey",
+      "Cardo": "thistle",
+      "Bolsa de sangre": "bloodbag",
+      "Ojo de enano gris": "greydwarfeye"
+    },
+    "out": 1,
+    "stats": {
+      "Duration": 600
+    },
+    "note": "> Crafting Crafting Station Mead Ketill td]:pb-[6px]!\"> Skill Cooking Ingredients td]:pt-[6px]!\"> Honey x10 Thistle x5 Bloodbag x2 Greydwarf Eye x1"
+  },
+  "Uncooked Honey Glazed Chicken": {
+    "name": "Uncooked Honey Glazed Chicken",
+    "id": "honeyglazedchickenuncooked",
+    "m": {
+      "Carne de pollo": 1,
+      "Miel": 3,
+      "Jotun puffs": 2
+    },
+    "links": {
+      "Carne de pollo": "chickenmeat",
+      "Miel": "honey",
+      "Jotun puffs": "mushroomjotunpuffs"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Food Preparation Table td]:pb-[6px]!\"> Skill Cooking Ingredients td]:pt-[6px]!\"> Chicken Meat x1 Honey x3 Jotun Puffs x2"
+  },
+  "Bread Dough": {
+    "name": "Bread Dough",
+    "id": "breaddough",
+    "m": {
+      "Harina de cebada": 10
+    },
+    "links": {
+      "Harina de cebada": "barleyflour"
+    },
+    "out": 2,
+    "stats": {},
+    "note": "> Crafting Crafting Station Food Preparation Table Skill Cooking td]:pb-[6px]!\"> Output x2 Ingredients td]:pt-[6px]!\"> Barley Flour x10"
+  },
+  "Uncooked Meat Platter": {
+    "name": "Uncooked Meat Platter",
+    "id": "meatplatteruncooked",
+    "m": {
+      "Carne de buscador": 1,
+      "Carne de lox": 1,
+      "Carne de liebre": 1
+    },
+    "links": {
+      "Carne de buscador": "bugmeat",
+      "Carne de lox": "loxmeat",
+      "Carne de liebre": "haremeat"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Food Preparation Table td]:pb-[6px]!\"> Skill Cooking Ingredients td]:pt-[6px]!\"> Seeker Meat x1 Lox Meat x1 Hare Meat x1"
+  },
+  "Uncooked Piquant Pie": {
+    "name": "Uncooked Piquant Pie",
+    "id": "piquantpieuncooked",
+    "m": {
+      "Racimo de bayas de vid": 2,
+      "Cola de asksvin": 2,
+      "Harina de cebada": 4
+    },
+    "links": {
+      "Racimo de bayas de vid": "vineberry",
+      "Cola de asksvin": "asksvinmeat",
+      "Harina de cebada": "barleyflour"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Food Preparation Table td]:pb-[6px]!\"> Skill Cooking Ingredients td]:pt-[6px]!\"> Vineberry Cluster x2 Asksvin Tail x2 Barley Flour x4"
+  },
+  "Unbaked Lox Pie": {
+    "name": "Unbaked Lox Pie",
+    "id": "loxpieuncooked",
+    "m": {
+      "Mora de los pantanos": 2,
+      "Carne de lox": 2,
+      "Harina de cebada": 4
+    },
+    "links": {
+      "Mora de los pantanos": "cloudberry",
+      "Carne de lox": "loxmeat",
+      "Harina de cebada": "barleyflour"
+    },
+    "out": 1,
+    "stats": {},
+    "note": "> Crafting Crafting Station Food Preparation Table td]:pb-[6px]!\"> Skill Cooking Ingredients td]:pt-[6px]!\"> Cloudberries x2 Lox Meat x2 Barley Flour x4"
+  }
+}
